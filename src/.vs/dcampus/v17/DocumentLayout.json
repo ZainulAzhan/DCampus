@@ -1,12 +1,88 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\zainu\\source\\repos\\DCampus\\dcampus\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\zainu\\source\\repos\\DCampus\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0719F129-7E12-48F9-95A9-C78F3EA174E9}|Core\\dcampus.Domain\\dcampus.Domain.csproj|c:\\users\\zainu\\source\\repos\\dcampus\\src\\core\\dcampus.domain\\models\\academics\\programme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0719F129-7E12-48F9-95A9-C78F3EA174E9}|Core\\dcampus.Domain\\dcampus.Domain.csproj|solutionrelative:core\\dcampus.domain\\models\\academics\\programme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0719F129-7E12-48F9-95A9-C78F3EA174E9}|Core\\dcampus.Domain\\dcampus.Domain.csproj|c:\\users\\zainu\\source\\repos\\dcampus\\src\\core\\dcampus.domain\\abstractions\\aggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0719F129-7E12-48F9-95A9-C78F3EA174E9}|Core\\dcampus.Domain\\dcampus.Domain.csproj|solutionrelative:core\\dcampus.domain\\abstractions\\aggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0719F129-7E12-48F9-95A9-C78F3EA174E9}|Core\\dcampus.Domain\\dcampus.Domain.csproj|c:\\users\\zainu\\source\\repos\\dcampus\\src\\core\\dcampus.domain\\abstractions\\iaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0719F129-7E12-48F9-95A9-C78F3EA174E9}|Core\\dcampus.Domain\\dcampus.Domain.csproj|solutionrelative:core\\dcampus.domain\\abstractions\\iaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0719F129-7E12-48F9-95A9-C78F3EA174E9}|Core\\dcampus.Domain\\dcampus.Domain.csproj|c:\\users\\zainu\\source\\repos\\dcampus\\src\\core\\dcampus.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0719F129-7E12-48F9-95A9-C78F3EA174E9}|Core\\dcampus.Domain\\dcampus.Domain.csproj|solutionrelative:core\\dcampus.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Programme.cs",
+              "DocumentMoniker": "C:\\Users\\zainu\\source\\repos\\DCampus\\src\\Core\\dcampus.Domain\\Models\\Academics\\Programme.cs",
+              "RelativeDocumentMoniker": "Core\\dcampus.Domain\\Models\\Academics\\Programme.cs",
+              "ToolTip": "C:\\Users\\zainu\\source\\repos\\DCampus\\src\\Core\\dcampus.Domain\\Models\\Academics\\Programme.cs",
+              "RelativeToolTip": "Core\\dcampus.Domain\\Models\\Academics\\Programme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:02:30.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aggregate.cs",
+              "DocumentMoniker": "C:\\Users\\zainu\\source\\repos\\DCampus\\src\\Core\\dcampus.Domain\\Abstractions\\Aggregate.cs",
+              "RelativeDocumentMoniker": "Core\\dcampus.Domain\\Abstractions\\Aggregate.cs",
+              "ToolTip": "C:\\Users\\zainu\\source\\repos\\DCampus\\src\\Core\\dcampus.Domain\\Abstractions\\Aggregate.cs",
+              "RelativeToolTip": "Core\\dcampus.Domain\\Abstractions\\Aggregate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:59:06.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAggregate.cs",
+              "DocumentMoniker": "C:\\Users\\zainu\\source\\repos\\DCampus\\src\\Core\\dcampus.Domain\\Abstractions\\IAggregate.cs",
+              "RelativeDocumentMoniker": "Core\\dcampus.Domain\\Abstractions\\IAggregate.cs",
+              "ToolTip": "C:\\Users\\zainu\\source\\repos\\DCampus\\src\\Core\\dcampus.Domain\\Abstractions\\IAggregate.cs",
+              "RelativeToolTip": "Core\\dcampus.Domain\\Abstractions\\IAggregate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:57:26.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\zainu\\source\\repos\\DCampus\\src\\Core\\dcampus.Domain\\Abstractions\\Entity.cs",
+              "RelativeDocumentMoniker": "Core\\dcampus.Domain\\Abstractions\\Entity.cs",
+              "ToolTip": "C:\\Users\\zainu\\source\\repos\\DCampus\\src\\Core\\dcampus.Domain\\Abstractions\\Entity.cs",
+              "RelativeToolTip": "Core\\dcampus.Domain\\Abstractions\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:52:34.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
