@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dcampus.Domain", "Core\dcam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dcampus.Infrastructure", "Infrastructure\dcampus.Infrastructure\dcampus.Infrastructure.csproj", "{0D8A2AD7-2AC1-4042-8768-19C579A5C723}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dcampus.Persistence", "Infrastructure\dcampus.Persistence\dcampus.Persistence.csproj", "{27AC80A0-27F3-4391-9ED4-C4FBDE1A93EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0D8A2AD7-2AC1-4042-8768-19C579A5C723}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D8A2AD7-2AC1-4042-8768-19C579A5C723}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D8A2AD7-2AC1-4042-8768-19C579A5C723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27AC80A0-27F3-4391-9ED4-C4FBDE1A93EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27AC80A0-27F3-4391-9ED4-C4FBDE1A93EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27AC80A0-27F3-4391-9ED4-C4FBDE1A93EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27AC80A0-27F3-4391-9ED4-C4FBDE1A93EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +54,7 @@ Global
 		{67069947-6D49-45CC-A4E3-FFD39506AB13} = {81C6F872-AC03-49DE-8ABE-829EBE101E78}
 		{0719F129-7E12-48F9-95A9-C78F3EA174E9} = {81C6F872-AC03-49DE-8ABE-829EBE101E78}
 		{0D8A2AD7-2AC1-4042-8768-19C579A5C723} = {DC816442-561A-42FA-B4F4-B40673F408E0}
+		{27AC80A0-27F3-4391-9ED4-C4FBDE1A93EA} = {DC816442-561A-42FA-B4F4-B40673F408E0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {86060436-B212-4A3B-8C85-879E13C1034C}
